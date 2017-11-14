@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\EmailSender\EmailSender\bin\Debug\EmailSender.exe.config
+C:\Users\user\source\repos\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+C:\Users\user\source\repos\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+C:\Users\user\source\repos\EmailSender\EmailSender\obj\Debug\EmailSender.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EmailSender\EmailSender\obj\Debug\EmailSender.exe
+C:\Users\user\source\repos\EmailSender\EmailSender\obj\Debug\EmailSender.pdb
+C:\Users\user\Desktop\EmailSender\EmailSender\obj\Debug\EmailSender.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EmailSender\EmailSender\obj\Debug\EmailSender.exe
+C:\Users\user\Desktop\EmailSender\EmailSender\obj\Debug\EmailSender.pdb
+C:\Users\user\Desktop\EmailSender\EmailSender\bin\Debug\EmailSender.exe.config
+C:\Users\user\Desktop\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+C:\Users\user\Desktop\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
